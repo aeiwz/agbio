@@ -1,0 +1,25 @@
+---
+output: html_document
+---
+
+![](src/img/AG-BIOBOOK_Cover.png)
+
+![](src/img/Agenda%201.png)
+
+![](src/img/Agenda%202.png)
+
+![](src/img/Agenda%203.png)
+
+![](src/img/Agenda%204.png)
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+# Content
+
+[Basic coding (R programming)](./src/page/R_tutorial.html)
+
+[Data Pre-processing](./src/page/nmr_data_preprocessing.html)
+
+[Multivariate statistical Analysis](./src/page/multivariate_analysis.html)
+
+[Metabolite Identification](./src/page/met_id.html)
